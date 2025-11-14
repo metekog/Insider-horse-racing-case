@@ -2,7 +2,7 @@
 
 Small Vue 3 + Vuex playground that runs six horse races, shows the current lap on the track, and keeps the program/results panels updated as the simulation progresses.
 
-Live here: 
+Live here: [https://563eb3dc.insider-horse-racing-case.pages.dev/](https://563eb3dc.insider-horse-racing-case.pages.dev/)
 
 ## Features
 
